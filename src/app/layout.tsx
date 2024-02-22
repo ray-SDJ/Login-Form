@@ -22,7 +22,7 @@ export default function RootLayout({
         <TopBar />
         <LoginForm />
         {children}
-        </body>
+      </body>
     </html>
   );
 }
